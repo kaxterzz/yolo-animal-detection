@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "60dc21d45bcd740ec26b88db7b75eb63",
+        "name": "images%20(29).jpg",
+        "path": "file:G:/WORK/Other/Kaleena%20SLIIT/TrainYourOwnYOLO/Data/Source_Images/Training_Images/images%20(29).jpg",
+        "size": {
+            "width": 299,
+            "height": 168
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1H7JNK-2x",
+            "type": "RECTANGLE",
+            "tags": [
+                "elephant"
+            ],
+            "boundingBox": {
+                "height": 160.99141104294478,
+                "width": 122.81461061337009,
+                "left": 94.58373535492764,
+                "top": 5.697699386503068
+            },
+            "points": [
+                {
+                    "x": 94.58373535492764,
+                    "y": 5.697699386503068
+                },
+                {
+                    "x": 217.39834596829772,
+                    "y": 5.697699386503068
+                },
+                {
+                    "x": 217.39834596829772,
+                    "y": 166.68911042944785
+                },
+                {
+                    "x": 94.58373535492764,
+                    "y": 166.68911042944785
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

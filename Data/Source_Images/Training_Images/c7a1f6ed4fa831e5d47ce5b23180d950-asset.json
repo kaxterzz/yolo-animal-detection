@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c7a1f6ed4fa831e5d47ce5b23180d950",
+        "name": "Minneriya-c-Rajiv-Welikala-1.jpg",
+        "path": "file:G:/WORK/Other/Kaleena%20SLIIT/TrainYourOwnYOLO/Data/Source_Images/Training_Images/Minneriya-c-Rajiv-Welikala-1.jpg",
+        "size": {
+            "width": 800,
+            "height": 407
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "e37YJLnvD",
+            "type": "RECTANGLE",
+            "tags": [
+                "elephant"
+            ],
+            "boundingBox": {
+                "height": 275.19376693766935,
+                "width": 120.74431426602344,
+                "left": 613.645761543763,
+                "top": 105.94649813685636
+            },
+            "points": [
+                {
+                    "x": 613.645761543763,
+                    "y": 105.94649813685636
+                },
+                {
+                    "x": 734.3900758097864,
+                    "y": 105.94649813685636
+                },
+                {
+                    "x": 734.3900758097864,
+                    "y": 381.1402650745257
+                },
+                {
+                    "x": 613.645761543763,
+                    "y": 381.1402650745257
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
